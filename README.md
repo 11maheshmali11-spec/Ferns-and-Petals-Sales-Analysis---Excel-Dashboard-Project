@@ -79,3 +79,6 @@ The company wants to optimize its sales strategy and improve customer satisfacti
 
 ---
 #Da<img width="1657" height="662" alt="Screenshot 2026-02-19 010443" src="https://github.com/user-attachments/assets/bc3fd580-4d3c-40ae-9b70-db1a69f14c22" />
+<img width="1468" height="749" alt="Screenshot 2026-02-19 010336" src="https://github.com/user-attachments/assets/9e5dadda-89db-4055-99de-211c4c80eb8a" />
+
+
