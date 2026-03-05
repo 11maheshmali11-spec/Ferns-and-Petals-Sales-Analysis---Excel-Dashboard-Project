@@ -49,7 +49,7 @@ The company wants to optimize its sales strategy and improve customer satisfacti
 
 ## 📊 Dashboard Highlights
 
-*KPI Summary:*
+**KPI Summary:**
                 • Total Revenue: ₹3521K
                 • Total Orders: 1000
                 • Average Order Value: ₹3520.98
